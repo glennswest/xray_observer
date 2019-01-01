@@ -12,3 +12,6 @@ Printable in pla. Normal Settings
 ## Credit
 This was realized by Farris Harris. He's a incredible designer. 
 
+## Nasa reference
+https://nasa3d.arc.nasa.gov/detail/GRO
+
